@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_La_Harpe
     - http://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_La_Harpe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24768#Abr-g--de-l-histoire-g-n-rale-des-voyages--Tome-second-
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2008-03-06'
 gutenberg_type: Text
