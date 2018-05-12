@@ -1,0 +1,37 @@
+_repo: Abr-g--de-l-histoire-g-n-rale-des-voyages--Tome-second-_24768
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Harpe, Jean-François de
+    aliases:
+    - La Harpe, Jean-Francois de
+    - Harpe, Jean-François de La
+    - De La Harpe, Jean-François
+    - Laharpe, Jean-François
+    birthdate: 1739
+    deathdate: 1803
+    gutenberg_agent_id: '25411'
+    url: http://www.gutenberg.org/2009/agents/25411
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_La_Harpe
+    - http://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_La_Harpe
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2008-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24768'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa, West -- Description and travel'
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+title: Abrégé de l'Histoire Générale des Voyages (Tome 2)
+url: http://www.gutenberg.org/ebooks/24768
